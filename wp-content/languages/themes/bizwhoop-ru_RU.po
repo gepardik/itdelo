@@ -1,0 +1,375 @@
+# Translation of Themes - Bizwhoop in Russian
+# This file is distributed under the same license as the Themes - Bizwhoop package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-06 13:03:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Bizwhoop\n"
+
+#. Description of the theme
+msgid "Bizwhoop is a modern WordPress theme for professionals. It fits creative business, small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolio, food & restaurant, gym & fitness, spa salon, medical practitioner & hospitals, landing pages, product pages, corporate business, digital agency, product showcase, financial advisor, accountant, law firm, wealth advisor, photography, personal, and any eCommerce stores. View the demo of Bizwhoop Premium https://themeansar.com/demo/wp/bizwhoop/default/, https://themeansar.com/demo/wp/bizwhoop/agency/"
+msgstr "Bizwhoop — современная тема WordPress для профессионалов. Она создана для творческих компаний, маленьких бизнесов (ресторанов, свадебных организаторов, спортивных и медицинских магазинов), стартапов, корпораций, онлайн-агентств и фирм, портфолио, спортивных залов и фитнеса, спа-салонов, медицинских учреждений и больниц, лендингов, страниц товаров, корпораций, цифровых агентств, витрин товаров, финансовых консультантов и советников, бухгалтерии, юристов, фотографов, личных сайтов и любых магазинов электронной коммерции. Демо премиум-версии Bizwhoop по ссылке https://themeansar.com/demo/wp/bizwhoop/default/, https://themeansar.com/demo/wp/bizwhoop/agency/"
+
+#. Theme Name of the theme
+msgid "Bizwhoop"
+msgstr "Bizwhoop"
+
+#: comments.php:96
+msgid "Leave a Reply"
+msgstr "Добавить комментарий"
+
+#: comments.php:93
+msgid "Send Message"
+msgstr "Отправить сообщение"
+
+#: comments.php:91
+msgid " Log out?"
+msgstr "Выйти?"
+
+#: comments.php:91
+msgid "Logged in as "
+msgstr "Вы вошли как "
+
+#: comments.php:90
+msgid "Message:"
+msgstr "Сообщение:"
+
+#: comments.php:78
+msgid "Email:"
+msgstr "Email:"
+
+#: comments.php:77
+msgid "Name:"
+msgstr "Имя:"
+
+#: inc/ansar/customize/bizwhoop_customize_copyright.php:87
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/ansar/customize/bizwhoop_customize_copyright.php:65
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/ansar/customize/bizwhoop_customize_copyright.php:44
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/ansar/customize/bizwhoop_customize_copyright.php:23
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/ansar/customize/bizwhoop_customize_copyright.php:12
+msgid "Social Media"
+msgstr "Социальные медиа"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:68
+#: inc/ansar/customize/bizwhoop_customize_header.php:115
+#: inc/ansar/customize/bizwhoop_customize_header.php:162
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:47
+msgid "Email"
+msgstr "Электронная почта"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:35
+msgid "Contact Number"
+msgstr "Контактный телефон"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:11
+msgid "Header Contact Info"
+msgstr "Контактная информация в заголовке"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:373
+msgid "Hide post meta from News section"
+msgstr "Спрятать мета информацию записей в секции новостей"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:344
+msgid "Latest News settings"
+msgstr "Настройки последних новостей"
+
+#: inc/ansar/customize/bizwhoop_customize_copyright.php:34
+#: inc/ansar/customize/bizwhoop_customize_copyright.php:55
+#: inc/ansar/customize/bizwhoop_customize_copyright.php:77
+#: inc/ansar/customize/bizwhoop_customize_copyright.php:99
+#: inc/ansar/customize/bizwhoop_customize_header.php:234
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:288
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:330
+msgid "Open link in a new tab"
+msgstr "Открывать в новой вкладке"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:209
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:260
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:302
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:217
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:190
+msgid "Contact callout settings"
+msgstr "Настройки контактной информации"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:94
+#: inc/ansar/customize/bizwhoop_customize_header.php:141
+#: inc/ansar/customize/bizwhoop_customize_header.php:188
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:136
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:246
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:401
+msgid "Description"
+msgstr "Описание"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:81
+#: inc/ansar/customize/bizwhoop_customize_header.php:128
+#: inc/ansar/customize/bizwhoop_customize_header.php:175
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:124
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:232
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:387
+msgid "Title"
+msgstr "Название"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:56
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:69
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:82
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:149
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:162
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:175
+msgid "Select Page"
+msgstr "Выберите страницу"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:43
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:111
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:205
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:359
+msgid "Hide"
+msgstr "Скрыть"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:43
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:111
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:205
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:359
+msgid "Show"
+msgstr "Показать"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:22
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:39
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:107
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:201
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:355
+msgid "Hide / Show Section"
+msgstr "Показать/скрыть раздел"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:7
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:14
+msgid "— Select —"
+msgstr "-Выберите-"
+
+#: 404.php:29
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "К сожалению, запрашиваемая страница не существует."
+
+#: search.php:44
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: search.php:42
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: functions.php:146
+msgid "Sidebar Widget Area"
+msgstr "Область виджетов боковой панели"
+
+#: functions.php:85
+msgid "Social Links Menu"
+msgstr "Меню социальных ссылок"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:27
+msgid "Slider settings"
+msgstr "Настройки слайдера"
+
+#: footer.php:28
+msgid "Y"
+msgstr "Y"
+
+#: header.php:221
+msgid "Toggle Navigation"
+msgstr "Переключатель навигации"
+
+#: inc/ansar/bizwhoop-custom-navwalker.php:177
+#: inc/ansar/bizwhoop_menu_walker.php:23
+msgid "Home"
+msgstr "Главная"
+
+#: inc/ansar/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "Получить PRO"
+
+#: inc/ansar/customize-pro/class-customize.php:64
+msgid "Bizwhoop Pro"
+msgstr "Bizwhoop Pro"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:196
+msgid "Header Widget Four Setting"
+msgstr "Настройки виджета заголовка 4"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:149
+msgid "Header Widget Three Setting"
+msgstr "Настройки виджета заголовка 3"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:102
+msgid "Header Widget Two Setting"
+msgstr "Настройки виджета заголовка 2"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:55
+msgid "Header Widget One Setting"
+msgstr "Настройки виджета заголовка 1"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:7
+msgid "Header settings"
+msgstr "Настройки шапки"
+
+#: header.php:204
+msgid "true"
+msgstr "true"
+
+#: inc/ansar/customize/bizwhoop_customize_header.php:222
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:274
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:316
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:418
+msgid "21"
+msgstr "21"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:418
+msgid "18"
+msgstr "18"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:418
+msgid "15"
+msgstr "15"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:418
+msgid "12"
+msgstr "12"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:418
+msgid "9"
+msgstr "9"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:418
+msgid "6"
+msgstr "6"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:418
+msgid "3"
+msgstr "3"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:416
+msgid "Select number of Posts"
+msgstr "Выберите количество записей"
+
+#: footer.php:28
+msgid "Theme by %1$s"
+msgstr "Автор темы: %1$s"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Домашняя страница"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Страница на всю ширину"
+
+#: single.php:52
+msgid "By"
+msgstr "от"
+
+#: searchform.php:4 searchform.php:6
+msgid "Search"
+msgstr "Найти"
+
+#: search.php:38
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/ansar/customize/bizwhoop_customize_homepage.php:96
+msgid "Service settings"
+msgstr "Настройки услуг"
+
+#: inc/ansar/customize/bizwhoop_customize_copyright.php:7
+msgid "Footer settings"
+msgstr "Настройки подвала"
+
+#: functions.php:183 functions.php:201 functions.php:220
+msgid "Read More"
+msgstr "Читать далее"
+
+#: functions.php:156
+msgid "Footer Widget Area"
+msgstr "Область подвала"
+
+#: functions.php:84
+msgid "Primary menu"
+msgstr "Основное меню"
+
+#: templates/fullwidth.php:32 content.php:42
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: sections/home-blog.php:66 content.php:38
+msgid "by"
+msgstr "от"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:41 comments.php:62
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:40 comments.php:61
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:37 comments.php:58
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: 404.php:30
+msgid "Go Back"
+msgstr "Вернуться назад"
+
+#: 404.php:28
+msgid "Oops! Page not found"
+msgstr "Упс! Страница не найдена"
+
+#: 404.php:27
+msgid "4"
+msgstr "4"
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#. Author URI of the theme
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+msgid "themeansar"
+msgstr "themeansar"
+
+#. Theme URI of the theme
+msgid "https://themeansar.com/free-themes/bizwhoop"
+msgstr "https://themeansar.com/free-themes/bizwhoop"

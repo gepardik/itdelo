@@ -1,0 +1,533 @@
+# Translation of Themes - Businessup in Russian
+# This file is distributed under the same license as the Themes - Businessup package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-13 14:02:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Businessup\n"
+
+#. Description of the theme
+msgid "Businessup WordPress theme ideal for a business or blog website (corporate, Consulting, Advisor, Agency, Finance, consult, law, Photography, freelancers, online presence etc.). You can also use for anything. It comes with all features these kind of Google Fonts, logo upload, slider, service, blog, shop page, latest news, about us, portfolio, contact us and much more. The theme you can use for any business website. Work with the most popular page builders as SiteOrigin. Businessup premium version provides you more than 10 different designs and supports popular plugins WPML, Polylang, WooCommerce, Contact Form 7, Revolution Slider, Elementor, Visual Composer, WP-Forms, Ninja Forms, Jetpack, WP-Featherlight, Give (WordPress Donation Plugin), Gravity Forms, Yoast SEO and many more. Looking for a Multi-Purpose theme? Look no further! Check the demos to realize that it's the only theme you will ever need: https://themeansar.com/demo/wp/businessup/"
+msgstr "Тема WordPress Businessup идеально подходит для бизнеса или блога (корпоративный, консалтинговый, консультант, агентство, финансы, консалтинг, юриспруденция, фотография, фрилансеры, присутствие в Интернете и т. п.). Вы также можете использовать её практически для чего угодно. Она включает в себя все функции, такие как Google Fonts, загрузку логотипа, слайдер, услуги, блог, страницу магазина, последние новости, о нас, портфолио, свяжитесь с нами и многое другое. Это тема, которую вы можете использовать для любого бизнес-сайта. Работайте с самыми популярными компоновщиками страниц как SiteOrigin. Премиум-версия Businessup предоставляет вам более 10 различных дизайнов и поддерживает популярные плагины WPML, Polylang, WooCommerce, Contact Form 7, Revolution Slider, Elementor, Visual Composer, WP-forms, Ninja forms, Jetpack, WP-Featherlight, Give (плагин для пожертвований WordPress). ), Gravity Forms, Yoast SEO и многое другое. Ищете многоцелевую тему? Вы нашли её! Посмотрите демонстрации, чтобы понять, что это единственная тема, которая вам когда-либо понадобится: https://themeansar.com/demo/wp/businessup/"
+
+#. Theme Name of the theme
+msgid "Businessup"
+msgstr "Businessup"
+
+#: inc/ansar/enqueue.php:77
+msgid "Processing..."
+msgstr "Обработка..."
+
+#: inc/ansar/getting-started.php:48
+msgid "Get started with %s"
+msgstr "Начать с %s"
+
+#: inc/ansar/getting-started.php:78
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Извините, вам не разрешено устанавливать плагины на этот сайт."
+
+#: inc/ansar/getting-started.php:148
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Невозможно подключить файловую систему. Перепроверьте данные авторизации."
+
+#: inc/ansar/getting-started.php:48
+msgid "Businessup theme"
+msgstr "темы Businessup"
+
+#: inc/ansar/getting-started.php:48
+msgid "Clicking on Get Started with Businessup Button and create exact demo replica of the"
+msgstr "Нажмите на кнопку \"Начните с Businessup\" и создайте точную копию демоданных"
+
+#: inc/ansar/getting-started.php:48
+msgid "Welcome! Thank you for choosing %1$s!. To fully take advantage of the best our theme can offer, get started."
+msgstr "Добро пожаловать! Спасибо за выбор %1$s!. Для того, чтобы полностью воспользоваться всем лучшим предлагаемым этой темой, начните"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:88
+msgid "Pro Demo"
+msgstr "ПРО демо"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:86
+msgid "Lite Demo"
+msgstr "Lite демо"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:84
+msgid "View Theme Info"
+msgstr "Информация о теме"
+
+#: inc/ansar/customize/ta_customize_homepage.php:371
+msgid "Hide post meta from blog pages, archive pages, categories, authors, etc."
+msgstr "Скрыть мета информацию записи со страниц блога, архивных страниц и т.д."
+
+#: inc/ansar/customize/ta_customize_homepage.php:306
+msgid "Latest News settings"
+msgstr "Настройки последних новостей"
+
+#: inc/ansar/customize/ta_customize_homepage.php:164
+#: inc/ansar/customize/ta_customize_homepage.php:334
+#: inc/ansar/customize/ta_customize_copyright.php:24
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: 404.php:29
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Мы сожалеем, но страница, которую вы ищете, не существует."
+
+#: search.php:24
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/ansar/widget/businessup-service.php:97
+msgid "Find all icons here"
+msgstr "Посмотрите все доступные значки тут"
+
+#: inc/ansar/customize/ta_customize_copyright.php:11
+msgid "Background Setting"
+msgstr "Настройки фона"
+
+#: inc/ansar/customize/ta_customize_copyright.php:44
+msgid "Widget Column Layout"
+msgstr "Разметка столбцов с виджетами"
+
+#: inc/ansar/widget/businessup-service.php:97
+msgid "Enter Font Awesome icon class (like: fa-cloud"
+msgstr "Введите класс значков font Awesome (например fa-cloud"
+
+#: inc/ansar/customize/ta_customize_homepage.php:228
+#: inc/ansar/customize/ta_customize_homepage.php:267
+#: inc/ansar/customize/ta_customize_header.php:60
+#: inc/ansar/widget/businessup-slider.php:141
+#: inc/ansar/widget/businessup-service.php:137
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/ansar/customize/ta_customize_homepage.php:123
+#: inc/ansar/customize/ta_customize_homepage.php:215
+#: inc/ansar/customize/ta_customize_homepage.php:397
+#: inc/ansar/customize/ta_customize_header.php:126
+#: inc/ansar/customize/ta_customize_header.php:170
+#: inc/ansar/customize/ta_customize_header.php:214
+#: inc/ansar/widget/businessup-slider.php:114
+#: inc/ansar/widget/businessup-service.php:109
+msgid "Description"
+msgstr "Описание"
+
+#: functions.php:186
+msgid "Sidebar Widget Area"
+msgstr "Область виджетов боковой панели"
+
+#: inc/ansar/customize/ta_customize_homepage.php:30
+#: inc/ansar/customize/ta_customize_homepage.php:71
+#: inc/ansar/customize/ta_customize_homepage.php:150
+#: inc/ansar/customize/ta_customize_homepage.php:321
+#: inc/ansar/customize/ta_customize_header.php:24
+msgid "Hide / Show Section"
+msgstr "Скрыть/Показать раздел"
+
+#: inc/ansar/customize/ta_customize_homepage.php:254
+#: inc/ansar/customize/ta_customize_homepage.php:293
+#: inc/ansar/customize/ta_customize_header.php:84
+#: inc/ansar/widget/businessup-slider.php:157
+#: inc/ansar/widget/businessup-service.php:158
+msgid "Open link in a new tab"
+msgstr "Открывать ссылку в новой вкладке"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:152
+msgid "Upgrade to PRO version"
+msgstr "Обновить до PRO-версии"
+
+#: inc/ansar/customize/ta_customize_header.php:102
+#: inc/ansar/customize/ta_customize_header.php:146
+#: inc/ansar/customize/ta_customize_header.php:190
+msgid "Icon"
+msgstr "Иконка"
+
+#: functions.php:206
+msgid "Service Widget Area"
+msgstr "Область виджетов Слайдер"
+
+#: functions.php:228
+msgid "Slider Widgets Area"
+msgstr "Область виджетов Услуги"
+
+#: search.php:26
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, нет результатов, соответствующих вашим критериям поиска. Пожалуйста, попробуйте еще раз с другими ключевыми словами."
+
+#: inc/ansar/businessup-custom-navwalker.php:175
+msgid "Home"
+msgstr "Главная"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:138
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:137
+msgid "Home Page Section Widget"
+msgstr "Область с виджетами на домашней странице"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search &help;"
+msgstr "Поиск ..."
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:208
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:205
+msgid "Polylang"
+msgstr "Polylang"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:204
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:203
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:142
+#: inc/ansar/themeinfo/themeinfo-detail.php:143
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:148
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:153
+msgid "View Pro"
+msgstr "Демонстрация Pro-версии"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:133
+msgid "Customize"
+msgstr "Настроить"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:32
+#: inc/ansar/themeinfo/themeinfo-detail.php:77
+msgid "About"
+msgstr "О теме"
+
+#: inc/ansar/customize/ta_customize_homepage.php:18
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:90
+msgid "Rating this theme"
+msgstr "Оценить тему"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:98
+msgid "Supported Plugins"
+msgstr "Поддерживаемые плагины"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:132
+msgid "Theme Customizer"
+msgstr "Настройщик темы"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:147
+msgid "Got theme support question?"
+msgstr "Есть вопросы по теме к техподдержке?"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:157
+msgid "Got sales related question?"
+msgstr "Есть вопросы по покупе?"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:158
+msgid "Contact Page"
+msgstr "Страница с контактами"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:164
+#: inc/ansar/themeinfo/themeinfo-detail.php:171
+msgid "Translate"
+msgstr "Перевести"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:183
+msgid "Return to Updates"
+msgstr "Вернуться на страницу &laquo;Обновления&raquo;"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:183
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Вернуться на страницу &laquo;Консоль&raquo; &rarr; &laquo;Обновления&raquo;"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:186
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Перейти на страницу &laquo;Консоль&raquo; &rarr; &laquo;Главная&raquo;"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:186
+msgid "Go to Dashboard"
+msgstr "Перейти на страницу &laquo;Консоль&raquo;"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:201
+msgid "This theme recommends following plugins:"
+msgstr "Эта тема рекомендует такие плагины:"
+
+#: inc/ansar/themeinfo/themeinfo-detail.php:206
+#: inc/ansar/themeinfo/themeinfo-detail.php:209
+msgid "Fully Compatible in Pro Version"
+msgstr "Полностью совместима в версии Pro"
+
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "автором %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:71
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: inc/ansar/customize/ta_customize_homepage.php:241
+#: inc/ansar/customize/ta_customize_homepage.php:280
+#: inc/ansar/customize/ta_customize_header.php:72
+#: inc/ansar/widget/businessup-slider.php:144
+#: inc/ansar/widget/businessup-service.php:140
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr "Рубрика: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: inc/ansar/widget/businessup-slider.php:128
+#: inc/ansar/widget/businessup-slider.php:135
+#: inc/ansar/widget/businessup-service.php:121
+#: inc/ansar/widget/businessup-service.php:128
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: inc/ansar/customize/ta_customize_homepage.php:111
+#: inc/ansar/customize/ta_customize_homepage.php:202
+#: inc/ansar/customize/ta_customize_homepage.php:384
+#: inc/ansar/customize/ta_customize_header.php:114
+#: inc/ansar/customize/ta_customize_header.php:158
+#: inc/ansar/customize/ta_customize_header.php:202
+#: inc/ansar/widget/businessup-slider.php:107
+#: inc/ansar/widget/businessup-service.php:102
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/ansar/customize/customize-pro/class-customize.php:64
+msgid "Businessup Pro"
+msgstr "Businessup Про"
+
+#: inc/ansar/customize/ta_customize_homepage.php:57
+msgid "Service Settings"
+msgstr "Настройки услуг"
+
+#: inc/ansar/customize/ta_customize_homepage.php:137
+msgid "Callout Settings"
+msgstr "Настройки информации"
+
+#: inc/ansar/customize/ta_customize_copyright.php:60
+msgid "Select Column Layout"
+msgstr "Выберите макет колонок"
+
+#: functions.php:93 footer.php:39
+msgid "Social Links Menu"
+msgstr "Социальные ссылки Меню"
+
+#: inc/ansar/customize/ta_customize_copyright.php:7
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: inc/ansar/customize/ta_customize_homepage.php:43
+#: inc/ansar/customize/ta_customize_homepage.php:84
+#: inc/ansar/customize/ta_customize_homepage.php:345
+#: inc/ansar/customize/ta_customize_copyright.php:35
+msgid "Overlay Color"
+msgstr "Цвет наложения"
+
+#: inc/ansar/customize/ta_customize_header.php:36
+msgid "Info one"
+msgstr "Инфо один"
+
+#: inc/ansar/customize/ta_customize_header.php:48
+msgid "Info two"
+msgstr "Инфо два"
+
+#: inc/ansar/customize/ta_customize_homepage.php:7
+msgid "Frontpage Settings"
+msgstr "Настройки главной страницы"
+
+#: inc/ansar/customize/ta_customize_homepage.php:96
+#: inc/ansar/customize/ta_customize_homepage.php:186
+#: inc/ansar/customize/ta_customize_homepage.php:356
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/ansar/customize/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "Перейти на Pro"
+
+#: inc/ansar/widget/businessup-service.php:15
+msgid "BUP - Service Widget"
+msgstr "BUP - Виджет услуг"
+
+#: inc/ansar/widget/businessup-slider.php:122
+#: inc/ansar/widget/businessup-service.php:115
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/ansar/widget/businessup-service.php:132
+msgid "Hide Featured Image"
+msgstr "Спрятать изображение страницы"
+
+#: inc/ansar/widget/businessup-slider.php:17
+msgid "BUP - Slider Widget"
+msgstr "BUP - Виджет слайдера"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Страница на всю ширину"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/ansar/breadcrumb.php:28
+msgid "Search results for"
+msgstr "Результаты поиска"
+
+#: functions.php:263 functions.php:271
+msgid "Read More"
+msgstr "Читать далее"
+
+#: functions.php:196
+msgid "Footer Widget Area"
+msgstr "Область виджетов в подвале"
+
+#: functions.php:92
+msgid "Primary menu"
+msgstr "Основное меню"
+
+#: 404.php:28
+msgid "Oops! Page not found"
+msgstr "Упс! Страница не найдена"
+
+#: inc/ansar/breadcrumb.php:86
+msgid "Posts tagged"
+msgstr "Записи с метками"
+
+#: content.php:42
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content.php:28 single.php:32 single.php:47 sections/home-blog.php:57
+msgid "by"
+msgstr "автором"
+
+#: comments.php:39 comments.php:60
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: 404.php:30
+msgid "Go Back"
+msgstr "Вернуться назад"
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: inc/ansar/breadcrumb.php:99
+msgid "Page"
+msgstr "Страница"
+
+#: header.php:166
+msgid "Toggle navigation"
+msgstr "Переключить навигацию"
+
+#: inc/ansar/breadcrumb.php:91
+msgid "Articles posted by"
+msgstr "Статьи, опубликованные"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "Найти"
+
+#: inc/ansar/breadcrumb.php:25
+msgid "Archive by category"
+msgstr "Архив по рубрике"
+
+#: comments.php:43 comments.php:64
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:42 comments.php:63
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: inc/ansar/customize/ta_customize_header.php:9
+#: inc/ansar/customize/ta_customize_header.php:13
+msgid "Header Settings"
+msgstr "Настройки шапки"
+
+#: footer.php:35
+msgid "Theme by %1$s"
+msgstr "Тема от %1$s"
+
+#: inc/ansar/customize/ta_customize_header.php:90
+msgid "Header Widget One Setting"
+msgstr "Настройки заголовка виджета один"
+
+#: inc/ansar/customize/ta_customize_header.php:134
+msgid "Header Widget Two Setting"
+msgstr "Настройки заголовка виджета два"
+
+#: inc/ansar/customize/ta_customize_header.php:178
+msgid "Header Widget Three Setting"
+msgstr "Настройки заголовка виджета три"
+
+#: 404.php:27
+msgid "4"
+msgstr "4"
+
+#: 404.php:15 inc/ansar/breadcrumb.php:94
+msgid "404"
+msgstr "404"
+
+#. Theme URI of the theme
+msgid "https://themeansar.com/businessup-lite/"
+msgstr "https://themeansar.com/businessup-lite/"
+
+#. Author of the theme
+msgid "themeansar"
+msgstr "themeansar"
+
+#. Author URI of the theme
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
